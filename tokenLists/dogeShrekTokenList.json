@@ -21,6 +21,14 @@
             "symbol": "DogeShrek",
             "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/dogeShrek.png"
         },
+          {
+            "chainId": 2000,
+            "address": "0x8df9B21945ebaa75424730F85eCFf426C35F5EF8",
+            "decimals": 18,
+            "name": "DogeCorn",
+            "symbol": "DogeCorn",
+            "logoURI": "https://raw.githubusercontent.com/cyberminter/dogeshrek-tokens-list/main/tokens/dogecorn.png"
+        },
         {
             "chainId": 2000,
             "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
