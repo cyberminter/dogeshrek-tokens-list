@@ -29,7 +29,7 @@
             "symbol": "WWDoge",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
         },
-           {
+        {
             "chainId": 2000,
             "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
             "decimals": 18,
@@ -44,6 +44,14 @@
             "name": "Dogechain Token",
             "symbol": "DC",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dcToken.png"
+        },
+         {
+            "chainId": 2000,
+            "address": "0x72aB1BAbED0502B08225FA1eF777fa673d82Ee3e",
+            "decimals": 18,
+            "name": "Kibby",
+            "symbol": "Kibby",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/kibby.png"
         },
         {
             "chainId": 2000,
